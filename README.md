@@ -194,4 +194,4 @@ python record_eeg.py
 
 ---
 
-This setup gives you a solid foundation for a focus experiment. You’ll get behavioral data from PsychoPy and EEG insights from the Muse, letting you explore how brain activity reflects attention. If you want to tweak the task, dive deeper into analysis, or need help with a specific part, let me know—I can refine it further!
+This setup gives you a solid foundation for a focus experiment. You’ll get behavioral data from PsychoPy and EEG insights from the Muse, letting you explore how brain activity reflects attention. If you want to tweak the task, dive deeper into analysis!
